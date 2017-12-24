@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Chatter Chuttur</string>
+  <string name="home_info">Aşağıda bölümümüzdeki derslerin listesi bulunmaktadır.</string>
+  <string name="userEmail">E-posta Adresi</string>
+  <string name="password">Parola</string>
+  <string name="facebook">Facebook</string>
+  <string name="twitter">Twitter</string>
+  <string name="instagram">Instagram</string>
+  <string name="share">Paylaş</string>
+  <string name="login">Giriş</string>
+  <string name="register">Kayıt Ol</string>
+  <string name="help">Yardım</string>
+</resources>
